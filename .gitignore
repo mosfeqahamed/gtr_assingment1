@@ -1,0 +1,25 @@
+# Environment
+env/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+
+# Other
+scraped_urls.csv
